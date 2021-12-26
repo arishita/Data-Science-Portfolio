@@ -5,5 +5,5 @@
   fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and and more.</p>
   
  <a href = "https://www.youtube.com/watch?v=z1OhijGrnCs" target="_blank">
-  <img src = "https://img.youtube.com/vi/yHgLTGXY2So/0.jpg"
+  <img src = "https://thumbs.dreamstime.com/b/mysterious-hacker-online-attack-concept-fraud-detection-inscription-security-204520046.jpg"
        alt="FRAUD DETECTION" width = "240" height= "180" border = "10" /></a>
